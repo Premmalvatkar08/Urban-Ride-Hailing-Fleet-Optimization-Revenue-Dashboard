@@ -1,0 +1,13 @@
+Location_ID,Location_Name,Zone,Latitude,Longitude
+L001,Andheri,West,19.1197,72.8468
+L002,Bandra,West,19.0607,72.8362
+L003,Powai,Central,19.1176,72.906
+L004,Kurla,Central,19.0726,72.8845
+L005,Thane,North,19.2183,72.9781
+L006,Dadar,Central,19.0178,72.8478
+L007,Borivali,North,19.2307,72.8567
+L008,Ghatkopar,Central,19.086,72.9081
+L009,Vashi,Navi Mumbai,19.0771,72.9988
+L010,Nerul,Navi Mumbai,19.033,73.0297
+L011,Airoli,Navi Mumbai,19.159,72.9986
+L012,Ghansoli,Navi Mumbai,19.126,73.005
